@@ -36,7 +36,7 @@ Other Professional Experience
 ======
 
 * 2023 - present: Research and Analytics at Skansen Technologies (contract)
-* 2023 - present: Self employed at Maja Svanberg AB
+* 2023 - present: Self-employed consultant at Maja Svanberg AB
 * 2022: Data Scientist at Einride
 * 2019 - 2021: Forward Deployed Engineer at Palantir Technologies 
 * 2017 - 2019: Data Engineer and Product Manager at Spotify

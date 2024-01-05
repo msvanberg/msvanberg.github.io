@@ -11,20 +11,21 @@ redirect_from:
 
 Education
 ======
-* SM in Technology and Policy, Massachusetts Institute of Technology, 2023
-* BA in Computer Science, magna cum laude, Wellesley College, 2018
+* Master of Science (SM) in Technology and Policy, Massachusetts Institute of Technology, 2023
+* Bachelor of Arts (BA) in Computer Science, magna cum laude, Wellesley College, 2018
 
 Current Research Projects
+======
+
+* Beyond AI Exposure: Which Tasks are Cost-Effective to Automate with Computer Vision?
+  * Advisor: Neil Thompson, Massachusetts Institute of Technology
+
+Past Research Projects 
 ======
 
 * Design Commonalities in Semiconductors
   * Advisor: Erica Fuchs, Carnegie Mellon University
 
-* Will It be Cost-Effective to Automate Human Tasks with AI? Evidence From Computer Vision.
-  * Advisor: Neil Thompson, Massachusetts Institute of Technology
-
-Past Research Projects 
-======
 * Privacy-Induced Experimentation
   * Advisor: Dean Eckles, Massachusetts Institute of Technology
   
@@ -35,8 +36,7 @@ Past Research Projects
 Other Professional Experience
 ======
 
-* 2023 - present: Research and Analytics at Skansen Technologies (contract)
-* 2023 - present: Self-employed consultant at Maja Svanberg AB
+* 2023 - : Freelance Technology Consultant at Maja Svanberg AB
 * 2022: Data Scientist at Einride
 * 2019 - 2021: Forward Deployed Engineer at Palantir Technologies 
 * 2017 - 2019: Data Engineer and Product Manager at Spotify

@@ -45,7 +45,6 @@ Other Professional Experience
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-{% endcomment %} 
   
   
 Service and Leadership
@@ -54,3 +53,6 @@ Service and Leadership
 * 2022 - 2023 Desk worker, MIT Outing Club
 * 2021 - 2022 Board member, MIT Technology and Policy Student Society
 * 2019 - 2021 Vice President, Swedish International Students and Alumni
+
+
+{% endcomment %} 

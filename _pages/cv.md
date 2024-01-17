@@ -14,14 +14,12 @@ Education
 * Master of Science (SM) in Technology and Policy, Massachusetts Institute of Technology, 2023
 * Bachelor of Arts (BA) in Computer Science, magna cum laude, Wellesley College, 2018
 
-Current Research Projects
+{% comment %} 
+Past and Current Research Projects
 ======
 
 * Beyond AI Exposure: Which Tasks are Cost-Effective to Automate with Computer Vision?
   * Advisor: Neil Thompson, Massachusetts Institute of Technology
-
-Past Research Projects 
-======
 
 * Design Commonalities in Semiconductors
   * Advisor: Erica Fuchs, Carnegie Mellon University
@@ -41,7 +39,7 @@ Other Professional Experience
 * 2019 - 2021: Forward Deployed Engineer at Palantir Technologies 
 * 2017 - 2019: Data Engineer and Product Manager at Spotify
 
-{% comment %} 
+
   Publications
 ======
   <ul>{% for post in site.publications %}

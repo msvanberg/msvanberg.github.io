@@ -16,4 +16,6 @@ I hold degrees in *Technology and Policy* and *Computer Science* from MIT and We
 
 I love to ski, boulder, do yoga, and run. 
 
+<!---
 maja [dot] s [dot] svanberg [at] gmail [dot] com
+-->

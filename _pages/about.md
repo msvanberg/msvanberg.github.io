@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I work to understand how we can steer the development of critical technologies.
+I am a PhD student in Technology Management and Economics at Chalmers University of Technology, working to understand how we can steer the development of critical technologies and systems. Specifically, I am looking at mission-oriented innovation policy in the context of industrial decarbonization. 
 
-My interests broadly center on emerging technology as it relates to economic equality, labor, resilience, policy and business strategy, human capital, and education. Previously, I have worked on corporate data strategy, causal inference, privacy guarantees, large scale data integrations, business intelligence, and education technology.
+I enjoy thinking about economic equality, societal resilience, and sustainability, and working with quantitative empirical methods. I spent the early years in my career in the software industry developing AI and other data-intensive technologies. 
 
-I hold degrees in *Technology and Policy* and *Computer Science* from MIT and Wellesley College. My master's thesis was awarded with the MIT Technology and Policy Thesis Prize. 
+I hold degrees in *Technology and Policy* and *Computer Science* from MIT and Wellesley College. My master's thesis, building a model comparing the cost of human labor to the cost of AI, was awarded with the MIT Technology and Policy Thesis Prize and featured in many main-stream media outlets. 
 
-I love to ski, boulder, do yoga, and run. 
+For fun, I love to ski, rock climb, play soccer, and run. 
 
 <!---
 maja [dot] s [dot] svanberg [at] gmail [dot] com

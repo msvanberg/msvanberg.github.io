@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /media_coverage/
 author_profile: true
 redirect_from:
-  - /resume
+  - /media
 ---
 
 {% include base_path %}
@@ -32,7 +32,7 @@ The co-authored version of my master's thesis received significant international
 * [Business Insider: AI probably will not take your job just yet](https://www.businessinsider.com/ai-probably-will-not-take-your-job-just-yet-2024-1)
 * [CNBC: MIT study: Using AI to replace humans may be too expensive](https://www.cnbc.com/2024/02/02/mit-study-using-ai-to-replace-humans-may-be-too-expensive.html)
 * [CNET: AI and you - the job debate continues, social media isn't so swift handling porn deepfakes](https://www.cnet.com/tech/computing/ai-and-you-the-job-debate-continues-social-media-isnt-so-swift-handling-porn-deepfakes/)
-* [Daily Mail: AI bots are NOT coming for your job anytime soon - MIT experts have discovered the saving grace of human workers: they're much cheaper]([https://omni.se/forskning-tar-tid-innan-robotar-ersatter-manniskor/a/BWO2Vw](https://www.dailymail.co.uk/news/article-12997273/AI-bots-job-MIT-automation-human-wages.html))
+* [Daily Mail: AI bots are NOT coming for your job anytime soon - MIT experts have discovered the saving grace of human workers: they're much cheaper](https://www.dailymail.co.uk/news/article-12997273/AI-bots-job-MIT-automation-human-wages.html)
 * Swedish: [MIT-rapport: för dyrt att ersätta människor med AI](https://computersweden.se/article/1297982/mit-rapport-for-dyrt-att-ersatta-manniskor-med-ai.html)
 * Swedish: [Ingen anledning till oro – AI är (än så länge) för dyrt för att ersätta mänsklig arbetskraft](https://www.breakit.se/artikel/39008/ingen-anledning-till-oro-ai-ar-an-sa-lange-for-dyrt-for-att-ersatta-mansklig-arbetskraft)
 * Swedish: [Omni: Forskning: Tar tid innan robotar ersätter människor](https://omni.se/forskning-tar-tid-innan-robotar-ersatter-manniskor/a/BWO2Vw)

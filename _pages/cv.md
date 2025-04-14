@@ -14,7 +14,7 @@ Education
 * Master of Science (SM) in Technology and Policy, Massachusetts Institute of Technology
 * Bachelor of Arts (BA) in Computer Science, magna cum laude, Wellesley College
 
-Past and Current Research Projects
+Past and current research projects
 ======
 
 * How does government investment contribute to transformative capacity in the process industry?
@@ -33,7 +33,7 @@ Past and Current Research Projects
   * Advisor: Franklyn Turbak, Wellesley College
 
   
-Other Professional Experience
+Other professional experience
 ======
 
 * 2017 - 2023: Data engineer, data scientist, forward deployed engineer at various companies in the software industry

@@ -1,11 +1,10 @@
-
 ---
 layout: archive
 title: ""
-permalink: /media_coverage/
+permalink: /cv/
 author_profile: true
 redirect_from:
-  - /media
+  - /resume
 ---
 
 {% include base_path %}

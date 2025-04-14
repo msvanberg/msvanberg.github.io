@@ -17,6 +17,8 @@ main:
     
   - title: "CV"
     url: /cv/
+  - title: "Media"
+    url: /media_coverage/
     
   # - title: "Guide"
   #   url: /markdown/

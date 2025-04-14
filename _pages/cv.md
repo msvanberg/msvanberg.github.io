@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Master of Science (SM) in Technology and Policy, Massachusetts Institute of Technology, 2023
-* Bachelor of Arts (BA) in Computer Science, magna cum laude, Wellesley College, 2018
+* Master of Science (SM) in Technology and Policy, Massachusetts Institute of Technology
+* Bachelor of Arts (BA) in Computer Science, magna cum laude, Wellesley College
 
 Past and Current Research Projects
 ======

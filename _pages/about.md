@@ -10,7 +10,14 @@ redirect_from:
 
 I am a PhD student in Technology Management and Economics at Chalmers University of Technology, working to understand how we can steer technological development. Specifically, I am looking at Swedish innovation policy for decarbonization by 2045. 
 
-I enjoy thinking about economic equality, societal resilience, and sustainability, and working with quantitative empirical methods. I spent the early years of my career in the software industry developing AI and other data-intensive technologies. 
+Some keywords that describe my research topic:
+
+```
+innovation systems, economic justice, sustainability, societal resilience, innovation‬
+‭ system resilience, policy, business strategy, human capital, labor
+```
+
+Having spent the early years of my career in the software industry developing AI and other data-intensive technologies, I gravitate towards using computational methods. 
 
 I hold degrees in *Technology and Policy* and *Computer Science* from MIT and Wellesley College. My master's thesis was awarded with the MIT Technology and Policy Thesis Prize.
 

@@ -12,7 +12,7 @@ redirect_from:
 Select coverage
 ======
 
-The co-authored version of my master's thesis received significant international attention. It was cited by the White House Council of Economic Advisors in [The 2024 Economic Report of the President](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/) and 2024 Nobel Laureate Daron Acemoglu relied on it to produce his article ["The simple macroeconomics of AI"](https://academic.oup.com/economicpolicy/article/40/121/13/7728473).
+The report resulting from my master's thesis received significant international attention. It was cited by the White House Council of Economic Advisors in [The 2024 Economic Report of the President](https://bidenwhitehouse.archives.gov/cea/written-materials/2024/03/21/the-2024-economic-report-of-the-president/) and 2024 Nobel Laureate Daron Acemoglu relied on it to produce his article ["The simple macroeconomics of AI"](https://academic.oup.com/economicpolicy/article/40/121/13/7728473).
 
 * [MIT Sloan: Automation may be possible — but when will businesses want to do it?](https://mitsloan.mit.edu/ideas-made-to-matter/automation-may-be-possible-when-will-businesses-want-to-do-it)
 * [TechCrunch: New MIT CSAIL study suggests that AI won't steal as many jobs expected](https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/)

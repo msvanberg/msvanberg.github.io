@@ -14,32 +14,32 @@ Education
 * Master of Science (SM) in Technology and Policy, Massachusetts Institute of Technology, 2023
 * Bachelor of Arts (BA) in Computer Science, magna cum laude, Wellesley College, 2018
 
-{% comment %} 
 Past and Current Research Projects
 ======
 
-* Beyond AI Exposure: Which Tasks are Cost-Effective to Automate with Computer Vision?
+* How does government investment contribute to transformative capacity in the process industry?
+  * Advisors: Hans Hellmark, Chalmers and Johnn Andersson, RISE
+
+* Beyond AI exposure: Which tasks are cost-effective to automate with computer vision?
   * Advisor: Neil Thompson, Massachusetts Institute of Technology
 
-* Design Commonalities in Semiconductors
+* Design commonalities in semiconductors
   * Advisor: Erica Fuchs, Carnegie Mellon University
 
-* Privacy-Induced Experimentation
+* Privacy-induced experimentation
   * Advisor: Dean Eckles, Massachusetts Institute of Technology
   
-* Quantitative study to understand how users learn how to program in MIT App Inventor
+* User behavior and learning in MIT App Inventor
   * Advisor: Franklyn Turbak, Wellesley College
 
   
 Other Professional Experience
 ======
 
-* 2023 - : Freelance Technology Consultant at Maja Svanberg AB
-* 2022: Data Scientist at Einride
-* 2019 - 2021: Forward Deployed Engineer at Palantir Technologies 
-* 2017 - 2019: Data Engineer and Product Manager at Spotify
+* 2017 - 2023: Data engineer, data scientist, forward deployed engineer at various companies in the software industry
 
 
+{% comment %} 
   Publications
 ======
   <ul>{% for post in site.publications %}

@@ -18,7 +18,7 @@ Past and Current Research Projects
 ======
 
 * How does government investment contribute to transformative capacity in the process industry?
-  * Advisors: Hans Hellmark, Chalmers and Johnn Andersson, RISE
+  * Advisors: Hans Hellsmark, Chalmers and Johnn Andersson, RISE
 
 * Beyond AI exposure: Which tasks are cost-effective to automate with computer vision?
   * Advisor: Neil Thompson, Massachusetts Institute of Technology

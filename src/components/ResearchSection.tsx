@@ -13,7 +13,7 @@ const ResearchSection = () => {
 
   const researchAreas = [
     {
-      title: "Swedish innovation policy",
+      title: "Swedish industry and innovation policy",
       description:
         "Analyzing Swedish innovation policy for the 2045 decarbonization goals.",
     },

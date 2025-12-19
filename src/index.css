@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Earthy, sophisticated palette for sustainability researcher */
+    --background: 48 33% 97%;
+    --foreground: 160 25% 12%;
+
+    --card: 48 25% 95%;
+    --card-foreground: 160 25% 12%;
+
+    --popover: 48 33% 97%;
+    --popover-foreground: 160 25% 12%;
+
+    /* Deep forest green */
+    --primary: 158 35% 25%;
+    --primary-foreground: 48 33% 97%;
+
+    /* Warm sand */
+    --secondary: 38 25% 88%;
+    --secondary-foreground: 160 25% 18%;
+
+    --muted: 45 20% 92%;
+    --muted-foreground: 160 15% 45%;
+
+    /* Moss accent */
+    --accent: 145 30% 40%;
+    --accent-foreground: 48 33% 97%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 45 20% 85%;
+    --input: 45 20% 85%;
+    --ring: 158 35% 25%;
+
+    --radius: 0.5rem;
+
+    /* Typography */
+    --font-serif: 'Playfair Display', Georgia, serif;
+    --font-sans: 'Source Sans 3', system-ui, sans-serif;
+
+    /* Custom tokens */
+    --gradient-hero: linear-gradient(135deg, hsl(158 35% 25%) 0%, hsl(145 30% 35%) 100%);
+    --gradient-subtle: linear-gradient(180deg, hsl(48 33% 97%) 0%, hsl(45 25% 94%) 100%);
+    --shadow-soft: 0 4px 20px -4px hsl(160 25% 12% / 0.08);
+    --shadow-elevated: 0 12px 40px -12px hsl(160 25% 12% / 0.15);
+  }
+
+  .dark {
+    --background: 160 25% 8%;
+    --foreground: 48 25% 95%;
+
+    --card: 160 20% 12%;
+    --card-foreground: 48 25% 95%;
+
+    --popover: 160 25% 8%;
+    --popover-foreground: 48 25% 95%;
+
+    --primary: 145 40% 55%;
+    --primary-foreground: 160 25% 8%;
+
+    --secondary: 160 15% 18%;
+    --secondary-foreground: 48 25% 90%;
+
+    --muted: 160 15% 15%;
+    --muted-foreground: 48 15% 60%;
+
+    --accent: 145 35% 45%;
+    --accent-foreground: 160 25% 8%;
+
+    --border: 160 15% 20%;
+    --input: 160 15% 20%;
+    --ring: 145 40% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-serif);
+    @apply tracking-tight;
+  }
+}
+
+@layer utilities {
+  .font-serif {
+    font-family: var(--font-serif);
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  .text-gradient {
+    background: var(--gradient-hero);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .bg-gradient-hero {
+    background: var(--gradient-hero);
+  }
+
+  .bg-gradient-subtle {
+    background: var(--gradient-subtle);
+  }
+
+  .shadow-soft {
+    box-shadow: var(--shadow-soft);
+  }
+
+  .shadow-elevated {
+    box-shadow: var(--shadow-elevated);
+  }
+
+  /* Organic blob shapes */
+  .blob-shape {
+    border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+  }
+
+  /* Smooth reveal animation */
+  .animate-fade-up {
+    animation: fadeUp 0.8s ease-out forwards;
+    opacity: 0;
+  }
+
+  @keyframes fadeUp {
+    from {
+      opacity: 0;
+      transform: translateY(24px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animation-delay-100 { animation-delay: 0.1s; }
+  .animation-delay-200 { animation-delay: 0.2s; }
+  .animation-delay-300 { animation-delay: 0.3s; }
+  .animation-delay-400 { animation-delay: 0.4s; }
+  .animation-delay-500 { animation-delay: 0.5s; }
+  .animation-delay-600 { animation-delay: 0.6s; }
+}

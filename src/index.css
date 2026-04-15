@@ -1,0 +1,151 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 42 20% 98%;
+    --foreground: 210 12% 14%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 210 12% 14%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 210 12% 14%;
+
+    --primary: 212 50% 23%;
+    --primary-foreground: 42 20% 98%;
+
+    --secondary: 44 18% 91%;
+    --secondary-foreground: 210 12% 14%;
+
+    --muted: 40 10% 90%;
+    --muted-foreground: 210 10% 34%;
+
+    --accent: 212 50% 27%;
+    --accent-foreground: 42 20% 98%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 210 8% 72%;
+    --input: 210 8% 82%;
+    --ring: 212 50% 23%;
+
+    --radius: 0.125rem;
+
+    --font-serif: Georgia, "Times New Roman", serif;
+    --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    --gradient-hero: none;
+    --gradient-subtle: none;
+    --shadow-soft: 0 1px 2px hsl(210 12% 14% / 0.06);
+    --shadow-elevated: 0 1px 3px hsl(210 12% 14% / 0.1);
+  }
+
+  .dark {
+    --background: 210 12% 10%;
+    --foreground: 42 20% 96%;
+
+    --card: 210 10% 13%;
+    --card-foreground: 42 20% 96%;
+
+    --popover: 210 12% 10%;
+    --popover-foreground: 42 20% 96%;
+
+    --primary: 42 20% 96%;
+    --primary-foreground: 210 12% 10%;
+
+    --secondary: 210 10% 16%;
+    --secondary-foreground: 42 20% 96%;
+
+    --muted: 210 8% 20%;
+    --muted-foreground: 210 6% 70%;
+
+    --accent: 212 35% 60%;
+    --accent-foreground: 210 12% 10%;
+
+    --border: 210 8% 30%;
+    --input: 210 8% 30%;
+    --ring: 212 35% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+    font-family: var(--font-sans);
+    line-height: 1.55;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-serif);
+    letter-spacing: 0;
+    line-height: 1.25;
+  }
+
+  a {
+    @apply text-foreground;
+  }
+}
+
+@layer utilities {
+  .font-serif {
+    font-family: var(--font-serif);
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  .text-gradient {
+    color: hsl(var(--foreground));
+  }
+
+  .bg-gradient-hero {
+    background: hsl(var(--card));
+  }
+
+  .bg-gradient-subtle {
+    background: hsl(var(--background));
+  }
+
+  .shadow-soft {
+    box-shadow: var(--shadow-soft);
+  }
+
+  .shadow-elevated {
+    box-shadow: var(--shadow-elevated);
+  }
+
+  .blob-shape {
+    border-radius: var(--radius);
+  }
+
+  .animate-fade-up {
+    animation: none;
+    opacity: 1;
+  }
+
+  @keyframes fadeUp {
+    from {
+      opacity: 0;
+      transform: translateY(24px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animation-delay-100 { animation-delay: 0s; }
+  .animation-delay-200 { animation-delay: 0s; }
+  .animation-delay-300 { animation-delay: 0s; }
+  .animation-delay-400 { animation-delay: 0s; }
+  .animation-delay-500 { animation-delay: 0s; }
+  .animation-delay-600 { animation-delay: 0s; }
+}

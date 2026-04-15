@@ -15,6 +15,20 @@
     <meta property="og:image" content="https://majasvanberg.se/images/profile.jpg" />
     
     <link rel="canonical" href="https://majasvanberg.se" />
+    <script>
+      // SPA redirect restore for GitHub Pages — https://github.com/rafgraph/spa-github-pages
+      (function (l) {
+        if (l.search[1] === '/') {
+          var decoded = l.search.slice(1).split('&').map(function (s) {
+            return s.replace(/~and~/g, '&');
+          });
+          window.history.replaceState(
+            null, null,
+            decoded.shift() + (decoded.length ? '?' + decoded.join('&') : '') + l.hash
+          );
+        }
+      }(window.location));
+    </script>
   </head>
 
   <body>

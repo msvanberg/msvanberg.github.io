@@ -4,18 +4,18 @@ const AboutPage = () => {
 
       <div className="mt-5 space-y-4 text-base leading-7">
         <p>
-          I am a PhD student at Chalmers University of Technology, working on understanding the nature of large-scale socio-technical change. 
+          I am a PhD student at Chalmers University of Technology, working on understanding how societies decarbonize and what gets in the way. 
           My current focus is Swedish innovation policy for
-          decarbonization by 2045, with special attention to heavy industry.
+          decarbonization by 2045, with special attention to heavy industry, which comprises roughly one third of the country's emissions.
         </p>
         <p>
-          Before academia, I worked in the software industry on AI and other data-intensive
+          Prior to my PhD, I worked in the software industry on AI and other data-intensive
           systems. I now develop and apply computational methods to research questions in innovation and
           sustainability transitions.
         </p>
 
         <p>
-         Together with a colleague, I represent the <a href="https://transitionsnest.wordpress.com/" className="underline underline-offset-2">Network for Early Career Researchers in Sustainability Transitions (NEST)</a> on the STRN steering group, and act as a coordinator of the network. 
+         Together with a colleague, I represent the <a href="https://transitionsnest.wordpress.com/" className="underline underline-offset-2">Network for Early Career Researchers in Sustainability Transitions (NEST)</a> on the STRN steering group, and coordinate the network. 
         </p>
       </div>
 

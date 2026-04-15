@@ -3,13 +3,13 @@ const ResearchPage = () => {
     <article>
       <p className="mt-4 text-base leading-7">
         In the first part of my PhD, I have investigated the role computational methods have in transitions research,
-         developed a method to access data on the application-layer of technological change, and examined the patterns 
+         developed a method to analyze job postings at scale, and examined the patterns 
          through which new knowledge integrates into industries.
       </p>
 
       <p className="mt-4 text-base leading-7">
-        The next phase will examine the interactions between policy and systems of innovation, through failures and successes in Swedish decarbonization efforts. 
-        Empirical emphasis will be placed on the emerging Swedish battery industry, and heavy industry.  
+        I am now turning these tools toward questions of policy and industrial change.
+        Empirically, I will focus on the emerging Swedish battery industry, and heavy industry.  
       </p>
 
       <h3 className="mt-8 font-serif text-xl font-semibold">Selected work</h3>

@@ -2,8 +2,8 @@ const ContactPage = () => {
   return (
     <article>
       <p className="mt-4 text-base leading-7">
-        I am happy to discuss research collaborations and Chalmers student project ideas
-        related to innovation and socio-technical transitions.
+        Please reach out if we have overlapping interests. I am always happy to discuss research collaborations. 
+        If you are a Chalmers student interested in data science and socio-technical change, I am also happy to discuss potential thesis projects. 
       </p>
 
       <dl className="mt-6 space-y-3 text-sm">
@@ -44,12 +44,7 @@ const ContactPage = () => {
         <div className="flex gap-3">
           <dt className="w-28 flex-shrink-0 font-semibold">CV</dt>
           <dd>
-            <a
-              href="mailto:maja.svanberg@chalmers.se?subject=CV%20Request"
-              className="underline underline-offset-2"
-            >
               Available upon request
-            </a>
           </dd>
         </div>
       </dl>

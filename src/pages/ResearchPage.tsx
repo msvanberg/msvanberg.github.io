@@ -38,7 +38,7 @@ const ResearchPage = () => {
           >
             Manuscript, available at SSRN.
           </a>{" "}
-          Cited by Acemoglu (2025), Eloundou et al. (2024), Aghion & Bunel (2024), and Autor & Thompson (2025).
+          Cited by Acemoglu (2025), Eloundou et al. (2024), Aghion & Bunel (2024), Autor & Thompson (2025), and the Council of Economic Advisers (2024) in their Economic Report of the President.
         </li>
       </ol>
     </article>

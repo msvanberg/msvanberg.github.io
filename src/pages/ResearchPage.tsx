@@ -2,10 +2,9 @@ const ResearchPage = () => {
   return (
     <article>
       <p className="mt-4 text-base leading-7">
-        In the first part of my PhD, I have mapped how computational methods are used in transitions research, 
-        built a pipeline to analyze the content of millions of job postings, and used 
-        network science tools to characterize how skills and knowledge become structurally 
-        embedded in industries as they evolve.
+        My doctoral work so far has two strands: a study of how computational methods are used in transitions research, 
+        and a method that analyzes the content of millions of job postings to characterize 
+        how skills and knowledge restructure in industries as they evolve.
       </p>
       <p className="mt-4 text-base leading-7">
         I am now turning these tools toward questions of policy and industrial change, 

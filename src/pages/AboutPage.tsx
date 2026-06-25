@@ -4,14 +4,15 @@ const AboutPage = () => {
 
       <div className="mt-5 space-y-4 text-base leading-7">
         <p>
-          I am a PhD student at Chalmers University of Technology, working on understanding how societies decarbonize and what gets in the way. 
-          My current focus is Swedish innovation policy for
-          decarbonization by 2045, with special attention to heavy industry, which comprises roughly one third of the country's emissions.
+          I am a PhD student at Chalmers University of Technology. 
+          I develop computational methods, including network analysis and text processing, 
+          to understand how industries acquire and integrate new knowledge during 
+          technological change. I apply these tools to sustainability transitions, 
+          with an empirical focus on Swedish decarbonization by 2045 and on heavy industry, 
+          which accounts for roughly a third of the country's emissions.
         </p>
         <p>
-          Prior to my PhD, I worked in the software industry on AI and other data-intensive
-          systems. I now develop and apply computational methods to research questions in innovation and
-          sustainability transitions.
+          Prior to my PhD, I worked in the software industry on AI and other data-intensive systems.
         </p>
 
         <p>
